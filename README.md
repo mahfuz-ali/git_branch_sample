@@ -1,2 +1,2 @@
-#MyApp for Git Branching
+#MyApp
 This is sample for git branching
